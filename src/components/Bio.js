@@ -34,7 +34,7 @@ function Bio() {
                 <strong>{author}</strong>.
               </a>
               <br/>
-              I write about tech and Pychology.
+              I write about tech and Psychology.
             </p>
           </div>
         )
